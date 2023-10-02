@@ -2,4 +2,4 @@ git clone https://github.com/Crystal-Destailleurs/git-begins.git
 git add Shell.pdf
 git commit -m "premier upload shell"
 git push -u origin main
-
+git pull
